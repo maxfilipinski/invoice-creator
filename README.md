@@ -1,6 +1,6 @@
 # InvoiceCreator
 
-** WORK IN PROGRESS **
+**WORK IN PROGRESS**
  
 ## Description
 
